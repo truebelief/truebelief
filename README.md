@@ -5,9 +5,10 @@ I have been working on applying AI to bridge 3D capture🪐, inference💡, and 
 
 <div align="center">
   
-🔗 [xizhouxin.com](http://xizhouxin.com/)
+[![Homepage](https://img.shields.io/badge/Homepage-0A66C2?logo=google-chrome&logoColor=white&style=for-the-badge)](http://xizhouxin.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-username)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=truebelief)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truebelief&layout=compact&hide_border=true&langs_count=10&theme=default&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
