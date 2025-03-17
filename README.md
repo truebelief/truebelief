@@ -3,9 +3,14 @@
 
 I have been working on applying AI to bridge 3D capture🪐, inference💡, and simulation🪄for natural forest reality🌳 since the year of 2013. Hands-on experience with lidar data ✨. Lifetime learner and creative thinker through projects.
 
+
+
+
 <div align="center">
   
-[![Homepage](https://img.shields.io/badge/Homepage-0A66C2?logo=google-chrome&logoColor=white&style=for-the-badge)](http://xizhouxin.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-username)
+![Github](https://github.com/user-attachments/assets/b7356681-9072-4159-9978-e60e66b0d068)   [![Homepage](https://img.shields.io/badge/Homepage-0A66C2?logo=google-chrome&logoColor=white&style=for-the-badge)](http://xizhouxin.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&&style=for-the-badge)](https://www.linkedin.com/in/zhouxin-xi-22184749/)
+
+![Zhouxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=truebelief&show_icons=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=truebelief)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truebelief&layout=compact&hide_border=true&langs_count=10&theme=default&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
@@ -54,5 +59,9 @@ I have been working on applying AI to bridge 3D capture🪐, inference💡, and 
 
 🌐 **Fields**  
 `Computer Vision` • `Machine Learning` • `Software Engineering` • `Web Development` • `Photogrammetry` • `Remote Sensing` • `GIS`
+
+<p>
+Creator of the CloudCompare plugin treeiso  <img src="https://github.com/truebelief/cc-treeiso-plugin/blob/main/images/forest.png" height="15" width="15" >
+</p> 
 
 
