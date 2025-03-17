@@ -4,7 +4,8 @@ I have been working on applying AI to bridge 3D capture🪐, inference💡, and 
 
 🔗 [xizhouxin.com](http://xizhouxin.com/)
 
-🧑‍💻 Programming: 
+🧑‍💻 Programming
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-FF8800?logo=mathworks&logoColor=white&style=flat-square)
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
@@ -18,7 +19,8 @@ I have been working on applying AI to bridge 3D capture🪐, inference💡, and 
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
-⚙️ Frameworks:
+⚙️ Frameworks
+
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
 ![WebGL](https://img.shields.io/badge/-WebGL-990000?logo=webgl&logoColor=white&style=flat-square)
@@ -33,7 +35,8 @@ I have been working on applying AI to bridge 3D capture🪐, inference💡, and 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![SageMaker](https://img.shields.io/badge/-SageMaker-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 
-🛠️ Software:
+🛠️ Software
+
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=flat-square)
 ![CloudCompare](https://img.shields.io/badge/-CloudCompare-0096D6?style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
