@@ -1,4 +1,11 @@
-## Hi there 👋
+![1691208751399](https://github.com/user-attachments/assets/c12719cd-a60c-4105-9f3a-30196899b414)
+
+I have been working on applying AI to bridge 3D capture🪐, inference💡, and simulation🪄for natural forest reality🌳for ten years. Hands-on experience with lidar data✨. Lifetime learner though projects.
+
+http://xizhouxin.com/
+
+## 🚀 &nbsp;Languages & Tools:
+
 
 <!--
 **truebelief/truebelief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
