@@ -61,7 +61,8 @@ I have been working on applying AI to bridge 3D capture🪐, inference💡, and 
 `Computer Vision` • `Machine Learning` • `Software Engineering` • `Web Development` • `Photogrammetry` • `Remote Sensing` • `GIS`
 
 <p>
-Creator of the CloudCompare plugin treeiso  <img src="https://github.com/truebelief/cc-treeiso-plugin/blob/main/images/forest.png" height="15" width="15" >
+Created CloudCompare plugins: treeiso <img src="https://github.com/truebelief/cc-treeiso-plugin/blob/main/images/forest.png" height="15" width="15" > and TreeAIBox <img src="https://github.com/user-attachments/assets/3592ec33-aa96-48bc-89e5-dfb19a8ac90b" height="15" width="15">
+
 </p> 
 
 
